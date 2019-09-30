@@ -193,7 +193,7 @@ width: 100%;}
 
 .wave {
   /*background: url(./background/wave2.svg) repeat-x; */
-    background: url(./background/wave3.svg) repeat-x; 
+    background: url(./wave3.svg) repeat-x; 
   position: absolute;
   top: -198px;
   width: 6400px;
@@ -397,17 +397,17 @@ width: 100%;}
 
 .fourth{ 
 
-    background: url(./background/b-04.svg);
+    background: url(./b-04.svg);
     background-size: cover;}
 
 .fifth{ 
 
-    background: url(./background/b-05.svg);
+    background: url(./b-05.svg);
     background-size: cover;}
 
 .sixth{ 
 
-    background: url(./background/b-01.svg);
+    background: url(./b-01.svg);
     background-size: cover;}
 
 /*
@@ -1285,7 +1285,7 @@ color: #eeeeff;
 
 .font {
   /*background: url(./background/wave2.svg) repeat-x; */
-    background: url(./background/wave5.svg) repeat-x; 
+    background: url(./wave5.svg) repeat-x; 
   position: absolute;
   top: -198px;
   width: 6400px;
